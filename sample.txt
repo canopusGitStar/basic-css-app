@@ -1,0 +1,31 @@
+1. colors in CSS
+
+- color names
+- HTML5 colors
+- Hexadecimal codes
+- RGB - RED GREEN BLUE ( added togther is various ways)
+URL : https://en.wikipedia.org/wiki/Web_colors
+    : https://htmlcolorcodes.com/color-picker/
+
+List of Selectors
+
+Simple Selector - Select elements based on name, id and class
+Combinator selector - Select elements based on relationship between them
+Pseudo-class selectors
+Pseudo-Elemnts selectors
+Attribute Selectors
+
+Combinator selector: -
+
+Which explains the relationship between the selectors 
+
+CSS selector can contain more than one simple selector.
+
+ between the simple selectors we can include combinator 
+
+ 4 different combinators
+
+ 1. Descendant selector (space)
+ 2. child selector (>)
+ 3. adjacent sibling selector (+) - or immediate sibling selector
+ 4. General sibling selector (~) 
